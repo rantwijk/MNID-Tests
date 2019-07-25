@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "mnid": "^0.1.1"
+    "mnid": "^0.1.3"
   }
 }
